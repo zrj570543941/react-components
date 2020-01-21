@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "react libraries bundled with parcel",
   "main": "dist/index.js",
-  "repository": "https://github.com/jdmg94/minimum-parcel-lib.git",
+  "repository": "git@github.com:zrj570543941/react-components.git",
   "author": "<570543941@qq.com>",
   "license": "MIT",
   "private": false,
