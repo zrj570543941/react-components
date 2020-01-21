@@ -1,0 +1,14 @@
+{
+  "exclude": ["node_modules", "dist"],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "typing.d.ts"],
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "jsx": "react",
+    "baseUrl": ".",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
